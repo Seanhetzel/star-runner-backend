@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  high_score: 1
+  display_name: MyString
+
+two:
+  high_score: 1
+  display_name: MyString
