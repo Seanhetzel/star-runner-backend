@@ -1,3 +1,3 @@
-game1 = Score.create(high_score: 57000, display_name: "Batman")
-game2 = Score.create(high_score: 93402, display_name: "Joker")
-game3 = Score.create(high_score: 83729, display_name: "Terry")
+game1 = Score.create(high_score: 934020, display_name: "Deckard")
+game2 = Score.create(high_score: 837290, display_name: "K")
+game3 = Score.create(high_score: 570000, display_name: "Joi")
